@@ -6,48 +6,48 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Trendyol_super_lig_logo.svg",
       "teams": [
         {
-          "teamsName": "Fenerbahçe",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/8/86/Fenerbah%C3%A7e_SK.png"
+          "teamName": "Fenerbahçe",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/8/86/Fenerbah%C3%A7e_SK.png"
         },
         {
-          "teamsName": "Galatasaray",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/6/61/Galatasaray_Logo.svg"
+          "teamName": "Galatasaray",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/6/61/Galatasaray_Logo.svg"
         },
         {
-          "teamsName": "Beşiktaş",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/d/dd/Be%C5%9Fikta%C5%9F_JK_logo.svg"
+          "teamName": "Beşiktaş",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/d/dd/Be%C5%9Fikta%C5%9F_JK_logo.svg"
         },
         {
-          "teamsName": "Trabzonspor",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/2/24/Trabzonspor_logo.svg"
+          "teamName": "Trabzonspor",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/2/24/Trabzonspor_logo.svg"
         },
         {
-          "teamsName": "Hatayspor",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/9/9e/Hatayspor_logo.svg"
+          "teamName": "Hatayspor",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9e/Hatayspor_logo.svg"
         },
         {
-          "teamsName": "Alanyaspor",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/0/0d/Alanyaspor_logo.svg"
+          "teamName": "Alanyaspor",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/0/0d/Alanyaspor_logo.svg"
         },
         {
-          "teamsName": "Göztepe",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/0/0d/G%C3%B6ztepe_logo.svg"
+          "teamName": "Göztepe",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/0/0d/G%C3%B6ztepe_logo.svg"
         },
         {
-          "teamsName": "Gaziantep FK",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/9/9c/Gaziantep_FK_logo.svg"
+          "teamName": "Gaziantep FK",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9c/Gaziantep_FK_logo.svg"
         },
         {
-          "teamsName": "Kasımpaşa",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/1/1b/Kas%C4%B1mpa%C5%9Fa_logo.svg"
+          "teamName": "Kasımpaşa",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/1/1b/Kas%C4%B1mpa%C5%9Fa_logo.svg"
         },
         {
-          "teamsName": "Fatih Karagümrük",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/9/9e/Fatih_Karag%C3%BCmr%C3%BCk_S.K._logo.svg"
+          "teamName": "Fatih Karagümrük",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9e/Fatih_Karag%C3%BCmr%C3%BCk_S.K._logo.svg"
         },
         {
-          "teamsName": "Antalyaspor",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/tr/9/9c/Antalyaspor_logo.svg"
+          "teamName": "Antalyaspor",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9c/Antalyaspor_logo.svg"
         }
       ]
     },
@@ -55,50 +55,50 @@
       "id": 2,
       "name": "Premier League",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
-      "teams": [
+      "team": [
         {
-          "teamsName": "Manchester City",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+          "teamName": "Manchester City",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
         },
         {
-          "teamsName": "Manchester United",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+          "teamName": "Manchester United",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
         },
         {
-          "teamsName": "Leicester City",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/2/2d/Leicester_City_crest.svg"
+          "teamName": "Leicester City",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2d/Leicester_City_crest.svg"
         },
         {
-          "teamsName": "Chelsea",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+          "teamName": "Chelsea",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
         },
         {
-          "teamsName": "West Ham United",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg"
+          "teamName": "West Ham United",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg"
         },
         {
-          "teamsName": "Liverpool",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+          "teamName": "Liverpool",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
         },
         {
-          "teamsName": "Everton",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg"
+          "teamName": "Everton",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg"
         },
         {
-          "teamsName": "Tottenham Hotspur",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
+          "teamName": "Tottenham Hotspur",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
         },
         {
-          "teamsName": "Arsenal",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+          "teamName": "Arsenal",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
         },
         {
-          "teamsName": "Leeds United",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg"
+          "teamName": "Leeds United",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg"
         },
         {
-          "teamsName": "Aston Villa",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_FC_crest_%282016%29.svg"
+          "teamName": "Aston Villa",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_FC_crest_%282016%29.svg"
         }
       ]
     },
@@ -106,46 +106,46 @@
       "id": 3,
       "name": "La Liga",
       "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/LaLiga.svg",
-      "teams": [
+      "team": [
         {
-          "teamsName": "Atlético Madrid",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/c/c1/Atletico_Madrid_logo.svg"
+          "teamName": "Atlético Madrid",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/c/c1/Atletico_Madrid_logo.svg"
         },
         {
-          "teamsName": "Real Madrid",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+          "teamName": "Real Madrid",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
         },
         {
-          "teamsName": "Barcelona",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/4/47/Real_Madrid_CF.svg"
+          "teamName": "Barcelona",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/4/47/Real_Madrid_CF.svg"
         },
         {
-          "teamsName": "Sevilla",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/2/2e/Sevilla_FC_logo.svg"
+          "teamName": "Sevilla",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2e/Sevilla_FC_logo.svg"
         },
         {
-          "teamsName": "Real Sociedad",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/5/55/Real_Sociedad_logo.svg"
+          "teamName": "Real Sociedad",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/5/55/Real_Sociedad_logo.svg"
         },
         {
-          "teamsName": "Real Betis",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_Betis_logo.svg"
+          "teamName": "Real Betis",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_Betis_logo.svg"
         },
         {
-          "teamsName": "Villarreal",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+          "teamName": "Villarreal",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
         },
         {
-          "teamsName": "Celta Vigo",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/9/9a/RC_Celta_de_Vigo_logo.svg"
+          "teamName": "Celta Vigo",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9a/RC_Celta_de_Vigo_logo.svg"
         },
         {
-          "teamsName": "Granada",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/2/20/Granada_CF_logo.svg"
+          "teamName": "Granada",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/2/20/Granada_CF_logo.svg"
         },
         {
-          "teamsName": "Athletic Bilbao",
-          "teamsImage": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg"
+          "teamName": "Athletic Bilbao",
+          "teamImage": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg"
         }
       ]
     }
