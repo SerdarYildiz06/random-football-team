@@ -55,7 +55,7 @@
       "id": 2,
       "name": "Premier League",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
-      "team": [
+      "teams": [
         {
           "teamName": "Manchester City",
           "teamImage": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
@@ -106,7 +106,7 @@
       "id": 3,
       "name": "La Liga",
       "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/LaLiga.svg",
-      "team": [
+      "teams": [
         {
           "teamName": "Atlético Madrid",
           "teamImage": "https://upload.wikimedia.org/wikipedia/en/c/c1/Atletico_Madrid_logo.svg"
