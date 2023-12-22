@@ -11,43 +11,43 @@
         },
         {
           "teamName": "Galatasaray",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/6/61/Galatasaray_Logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Galatasaray_Star_Logo.png"
         },
         {
           "teamName": "Beşiktaş",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/d/dd/Be%C5%9Fikta%C5%9F_JK_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg"
         },
         {
           "teamName": "Trabzonspor",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/2/24/Trabzonspor_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/a/ab/TrabzonsporAmblemi.png"
         },
         {
           "teamName": "Hatayspor",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9e/Hatayspor_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/0/08/Hatayspor.png"
         },
         {
           "teamName": "Alanyaspor",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/0/0d/Alanyaspor_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/2/29/Alanyaspor_logo.png"
         },
         {
           "teamName": "Göztepe",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/0/0d/G%C3%B6ztepe_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/f/fe/Göztepe.png"
         },
         {
           "teamName": "Gaziantep FK",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9c/Gaziantep_FK_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/GFK-Logo.png"
         },
         {
           "teamName": "Kasımpaşa",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/1/1b/Kas%C4%B1mpa%C5%9Fa_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/6/68/Kasimpasa_2012.png"
         },
         {
           "teamName": "Fatih Karagümrük",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9e/Fatih_Karag%C3%BCmr%C3%BCk_S.K._logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/90/Fatihkaragumruk.png"
         },
         {
           "teamName": "Antalyaspor",
-          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/9/9c/Antalyaspor_logo.svg"
+          "teamImage": "https://upload.wikimedia.org/wikipedia/tr/b/b9/Antalyaspor_logo.png"
         }
       ]
     }
