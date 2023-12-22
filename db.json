@@ -1,7 +1,7 @@
 {
   "spin": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Super Toto Super League",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Trendyol_super_lig_logo.svg",
       "teams": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Premier League",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
       "teams": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "La Liga",
       "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/LaLiga.svg",
       "teams": [
