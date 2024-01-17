@@ -54,7 +54,7 @@
     {
       "id": 2,
       "name": "Champions League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png",
       "teams": [
         {
           "teamName": "Bayern Münih",
@@ -145,7 +145,7 @@
     {
       "id": 3,
       "name": "Premier League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",
       "teams": [
         {
           "teamName": "Bayern Münih",
