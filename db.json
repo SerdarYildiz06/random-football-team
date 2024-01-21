@@ -54,7 +54,7 @@
     {
       "id": 2,
       "name": "Champions League",
-      "image": "https://logowik.com/content/uploads/images/994_champions_league.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg",
       "teams": [
         {
           "teamName": "Bayern Münih",
@@ -145,7 +145,7 @@
     {
       "id": 3,
       "name": "Premier League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",
+      "image": "https://dorve.com/wp-content/uploads/2023/08/premier-league-logo-2023-image-cover.png",
       "teams": [
         {
           "teamName": "Bayern Münih",
