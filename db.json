@@ -5,7 +5,7 @@
       "name": "Super Toto Super League",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Trendyol_super_lig_logo.svg",
       "onbaring": true,
-      "close": false,
+      "close": true,
       "teams": [
         {
           "teamName": "Fenerbahce",
